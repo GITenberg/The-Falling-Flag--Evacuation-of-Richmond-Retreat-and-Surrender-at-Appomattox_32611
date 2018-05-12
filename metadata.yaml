@@ -1,0 +1,26 @@
+_repo: The-Falling-Flag--Evacuation-of-Richmond-Retreat-and-Surrender-at-Appomattox_32611
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boykin, Edward M.
+    gutenberg_agent_id: '35940'
+    url: http://www.gutenberg.org/2009/agents/35940
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32611'
+  lccn: 02011391
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richmond (Va.) -- History -- Siege, 1864-1865'
+- !lcc 'E456'
+title: 'The Falling Flag: Evacuation of Richmond, Retreat and Surrender at Appomattox'
+url: http://www.gutenberg.org/ebooks/32611
