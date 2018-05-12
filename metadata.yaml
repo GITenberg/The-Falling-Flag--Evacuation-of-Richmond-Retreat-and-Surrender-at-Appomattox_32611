@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35940'
     url: http://www.gutenberg.org/2009/agents/35940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32611#The-Falling-Flag--Evacuation-of-Richmond-Retreat-and-Surrender-at-Appomattox
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
